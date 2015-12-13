@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"test": "console.log('error test')",
+		"start": "budo index.js --live"
+
+	},
+	"devDependencies": {
+	"budo": "^7.0.2",
+	"watchify": "^3.6.1"
+	}
+}
